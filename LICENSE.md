@@ -1,4 +1,4 @@
-
+ultimate AppCleaner for macOS Extension | dark-mode + custom-actions is the best AppCleaner for macOS extension, featuring dark-mode and custom-actions. Safe, efficient, and
 
 
 
